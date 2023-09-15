@@ -1,0 +1,19 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a device; this may
+# be used with UUID= as a more robust way to name devices that works even if
+# disks are added and removed. See fstab(5).
+#
+# <file system>             <mount point>  <type>  <options>  <dump>  <pass>
+UUID=08FE-E4F6                            /boot/efi      vfat    defaults,noatime 0 2
+UUID=316208ab-5adc-466a-bfdf-ba51687d5b04 /boot          ext4    defaults,noatime 0 2
+UUID=c74381e6-77a5-4d4f-adbb-62ef8e279350 /              btrfs   subvol=/@,compress=zstd:1,x-systemd.device-timeout=0 0 0
+UUID=c74381e6-77a5-4d4f-adbb-62ef8e279350 /home          btrfs   subvol=/@home,compress=zstd:1,x-systemd.device-timeout=0 0 0
+UUID=c74381e6-77a5-4d4f-adbb-62ef8e279350 /swap          btrfs   subvol=/@swap,defaults,noatime 0 0
+/swap/swapfile                            swap           swap    defaults   0 0
+tmpfs                                     /tmp           tmpfs   defaults,noatime,mode=1777 0 0
+
+#mount nfs shares 
+
+10.0.0.10:/data/Plex /home/cuey/NFS/jellyfin nfs rw,sync,hard,intr,rsize=8192,wsize=8192,timeo=14 0 0
+10.0.0.10:/data/General /home/cuey/NFS/General nfs rw,sync,hard,intr,rsize=8192,wsize=8192,timeo=14 0 0
