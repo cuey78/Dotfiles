@@ -1,0 +1,174 @@
+icc:
+Header:
+  Profile size    = 1114 bytes
+  CMM             = 0x57696e00
+  Version         = 2.1.0
+  Device Class    = Display
+  Color Space     = RGB
+  Conn. Space     = XYZ
+  UTC Date&Time   = 17 Jun 2013, 12:00:00
+  Local Date&Time = 17 Jun 2013, 22:00:00
+  Platform        = Microsoft
+  Flags           = Not Embedded Profile, Use anywhere
+  Dev. Mnfctr.    = 0x4c4e5600
+  Dev. Model      = 0x0
+  Dev. Attrbts    = Reflective, Glossy, Positive, Color
+  Rndrng Intnt    = Perceptual
+  Illuminant      = 0.96420288, 1.00000000, 0.82489014    [Lab 100.000000, 0.000000, 0.001233]
+  Creator         = 'LNV '
+
+tag 0:
+  sig      'desc'
+  type     'desc'
+  offset   336
+  size     141
+TextDescription:
+  ASCII data, length 51 chars:
+    0x0000: Wide viewing angle & High density FlexView Display
+  No Unicode data
+  No ScriptCode data
+
+tag 1:
+  sig      'dmnd'
+  type     'desc'
+  offset   480
+  size     97
+TextDescription:
+  ASCII data, length 7 chars:
+    0x0000: Lenovo
+  No Unicode data
+  No ScriptCode data
+
+tag 2:
+  sig      'dmdd'
+  type     'desc'
+  offset   580
+  size     132
+TextDescription:
+  ASCII data, length 42 chars:
+    0x0000: Wide viewing angle & High density Display
+  No Unicode data
+  No ScriptCode data
+
+tag 3:
+  sig      'vued'
+  type     'desc'
+  offset   712
+  size     134
+TextDescription:
+  ASCII data, length 44 chars:
+    0x0000: Reference Viewing Condition in IEC61966-2.1
+  No Unicode data
+  No ScriptCode data
+
+tag 4:
+  sig      'view'
+  type     'view'
+  offset   848
+  size     36
+Viewing Conditions:
+  XYZ value of illuminant in cd/m^2 = 19.64450073, 20.37179565, 16.80889893
+  XYZ value of surround in cd/m^2   = 3.92889404, 4.07438660, 3.36178589
+  Illuminant type = D50
+
+tag 5:
+  sig      'lumi'
+  type     'XYZ '
+  offset   884
+  size     20
+XYZArray:
+  No. elements = 1
+
+tag 6:
+  sig      'meas'
+  type     'meas'
+  offset   904
+  size     36
+Measurement:
+  Standard Observer = 1964 Ten Degrees
+  XYZ for Measurement Backing = 0.00000000, 0.00000000, 0.00000000    [Lab 0.000000, 0.000000, 0.000000]
+  Measurement Geometry = 0/45 or 45/0
+  Measurement Flare =   1.0%
+  Standard Illuminant = D65
+
+tag 7:
+  sig      'rXYZ'
+  type     'XYZ '
+  offset   940
+  size     20
+XYZArray:
+  No. elements = 1
+
+tag 8:
+  sig      'gXYZ'
+  type     'XYZ '
+  offset   960
+  size     20
+XYZArray:
+  No. elements = 1
+
+tag 9:
+  sig      'bXYZ'
+  type     'XYZ '
+  offset   980
+  size     20
+XYZArray:
+  No. elements = 1
+
+tag 10:
+  sig      'rTRC'
+  type     'curv'
+  offset   1000
+  size     14
+Curve:
+  Curve is gamma of 2.1992187500
+
+tag 11:
+  sig      'gTRC'
+  type     'curv'
+  offset   1000
+  size     14
+Curve:
+  Curve is gamma of 2.1992187500
+
+tag 12:
+  sig      'bTRC'
+  type     'curv'
+  offset   1000
+  size     14
+Curve:
+  Curve is gamma of 2.1992187500
+
+tag 13:
+  sig      'wtpt'
+  type     'XYZ '
+  offset   1016
+  size     20
+XYZArray:
+  No. elements = 1
+
+tag 14:
+  sig      'bkpt'
+  type     'XYZ '
+  offset   1036
+  size     20
+XYZArray:
+  No. elements = 1
+
+tag 15:
+  sig      'tech'
+  type     'sig '
+  offset   1056
+  size     12
+Signature
+  Technology = Active Matrix Display
+
+tag 16:
+  sig      'cprt'
+  type     'text'
+  offset   1068
+  size     46
+Text:
+  ASCII data, length 38 chars:
+    0x0000: Copyright (c) 2005 Lenovo corporation
+
