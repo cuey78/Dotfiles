@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Jellyfin" generator-info-url="http://jellyfin.org/" source-info-name="Australian Channels">
+
+    <!-- Radio Stations -->
+    <channel id="2GB.au@SD">
+        <display-name>2GB Sydney</display-name>
+        <display-name>2GB</display-name>
+        <icon src="https://example.com/logos/2gb.png"/>
+    </channel>
+    
+    <channel id="3AW.au@SD">
+        <display-name>3AW Melbourne</display-name>
+        <display-name>3AW</display-name>
+        <icon src="https://example.com/logos/3aw.png"/>
+    </channel>
+    
+    <channel id="6PR.au@SD">
+        <display-name>6PR Perth</display-name>
+        <display-name>6PR</display-name>
+        <icon src="https://example.com/logos/6pr.png"/>
+    </channel>
+
+    <!-- Nine Network Channels -->
+    <channel id="9Gem.au@Sydney">
+        <display-name>9Gem</display-name>
+        <display-name>9Gem Sydney</display-name>
+        <icon src="https://example.com/logos/9gem.png"/>
+    </channel>
+    
+    <channel id="9Go.au@Sydney">
+        <display-name>9Go!</display-name>
+        <display-name>9Go! Sydney</display-name>
+        <icon src="https://example.com/logos/9go.png"/>
+    </channel>
+    
+    <channel id="9Life.au@Sydney">
+        <display-name>9Life</display-name>
+        <display-name>9Life Sydney</display-name>
+        <icon src="https://example.com/logos/9life.png"/>
+    </channel>
+
+    <!-- Ten Network -->
+    <channel id="10Bold.au@Sydney">
+        <display-name>10 Bold Adelaide</display-name>
+        <display-name>10 Bold</display-name>
+        <icon src="https://example.com/logos/10bold.png"/>
+    </channel>
+
+    <!-- ABC Channels -->
+    <channel id="ABCNews.au">
+        <display-name>ABC News</display-name>
+        <icon src="https://example.com/logos/abcnews.png"/>
+    </channel>
+    
+    <channel id="ABCEntertains.au@Sydney">
+        <display-name>ABC Entertains</display-name>
+        <display-name>ABC ME</display-name>
+        <icon src="https://example.com/logos/abcme.png"/>
+    </channel>
+    
+    <channel id="ABCKids.au@Sydney">
+        <display-name>ABC Kids</display-name>
+        <icon src="https://example.com/logos/abckids.png"/>
+    </channel>
+    
+    <channel id="ABCTV.au@ACT">
+        <display-name>ABC TV ACT</display-name>
+        <icon src="https://example.com/logos/abctv.png"/>
+    </channel>
+    
+    <channel id="ABCTV.au@NSW">
+        <display-name>ABC TV NSW</display-name>
+        <icon src="https://example.com/logos/abctv.png"/>
+    </channel>
+    
+    <channel id="ABCTV.au@NT">
+        <display-name>ABC TV NT</display-name>
+        <icon src="https://example.com/logos/abctv.png"/>
+    </channel>
+    
+    <channel id="ABCTVPlus.au@Sydney">
+        <display-name>ABC TV Plus</display-name>
+        <icon src="https://example.com/logos/abctvplus.png"/>
+    </channel>
+    
+    <channel id="ABCTV.au@QLD">
+        <display-name>ABC TV QLD</display-name>
+        <icon src="https://example.com/logos/abctv.png"/>
+    </channel>
+    
+    <channel id="ABCTV.au@SA">
+        <display-name>ABC TV SA</display-name>
+        <icon src="https://example.com/logos/abctv.png"/>
+    </channel>
+    
+    <channel id="ABCTV.au@TAS">
+        <display-name>ABC TV TAS</display-name>
+        <icon src="https://example.com/logos/abctv.png"/>
+    </channel>
+    
+    <channel id="ABCTV.au@VIC">
+        <display-name>ABC TV VIC</display-name>
+        <icon src="https://example.com/logos/abctv.png"/>
+    </channel>
+    
+    <channel id="ABCTV.au@WA">
+        <display-name>ABC TV WA</display-name>
+        <icon src="https://example.com/logos/abctv.png"/>
+    </channel>
+
+    <!-- Business & News Channels -->
+    <channel id="AusbizTV.au@SD">
+        <display-name>ausbiz TV</display-name>
+        <icon src="https://example.com/logos/ausbiz.png"/>
+    </channel>
+    
+    <channel id="BloombergTV.us@Australia">
+        <display-name>Bloomberg TV Australia</display-name>
+        <display-name>Bloomberg</display-name>
+        <icon src="https://example.com/logos/bloomberg.png"/>
+    </channel>
+
+    <!-- Community Channels -->
+    <channel id="C31Melbourne.au@SD">
+        <display-name>C31 Melbourne</display-name>
+        <display-name>Channel 31</display-name>
+        <icon src="https://example.com/logos/c31.png"/>
+    </channel>
+    
+    <channel id="Channel44.au@SD">
+        <display-name>Channel 44</display-name>
+        <icon src="https://example.com/logos/channel44.png"/>
+    </channel>
+
+    <!-- Seven Network -->
+    <channel id="Channel7.au@Sydney">
+        <display-name>Channel 7</display-name>
+        <display-name>7 Sydney</display-name>
+        <icon src="https://example.com/logos/7.png"/>
+    </channel>
+
+    <!-- Nine Network Regional -->
+    <channel id="Channel9.au@Adelaide">
+        <display-name>Channel 9 Adelaide</display-name>
+        <display-name>9 Adelaide</display-name>
+        <icon src="https://example.com/logos/9.png"/>
+    </channel>
+    
+    <channel id="Channel9.au@Brisbane">
+        <display-name>Channel 9 Brisbane</display-name>
+        <display-name>9 Brisbane</display-name>
+        <icon src="https://example.com/logos/9.png"/>
+    </channel>
+    
+    <channel id="Channel9.au@Melbourne">
+        <display-name>Channel 9 Melbourne</display-name>
+        <display-name>9 Melbourne</display-name>
+        <icon src="https://example.com/logos/9.png"/>
+    </channel>
+    
+    <channel id="Channel9.au@Perth">
+        <display-name>Channel 9 Perth</display-name>
+        <display-name>9 Perth</display-name>
+        <icon src="https://example.com/logos/9.png"/>
+    </channel>
+    
+    <channel id="Channel9.au@Sydney">
+        <display-name>Channel 9 Sydney</display-name>
+        <display-name>9 Sydney</display-name>
+        <icon src="https://example.com/logos/9.png"/>
+    </channel>
+
+    <!-- CTB Perth Channels -->
+    <channel id="CTBPerth.au@SD">
+        <display-name>CTB Perth</display-name>
+        <icon src="https://example.com/logos/ctbperth.png"/>
+    </channel>
+    
+    <channel id="CTBPerthMoviesChannel.au@SD">
+        <display-name>CTB Perth Movies</display-name>
+        <icon src="https://example.com/logos/ctbmovies.png"/>
+    </channel>
+    
+    <channel id="CTBPerthNews.au@SD">
+        <display-name>CTB Perth News</display-name>
+        <icon src="https://example.com/logos/ctbnews.png"/>
+    </channel>
+
+    <!-- Shopping & Specialty Channels -->
+    <channel id="ExpoChannel.au@SD">
+        <display-name>Expo Channel</display-name>
+        <icon src="https://example.com/logos/expo.png"/>
+    </channel>
+    
+    <channel id="HopeChannelAustralia.au@SD">
+        <display-name>Hope Channel Australia</display-name>
+        <icon src="https://example.com/logos/hope.png"/>
+    </channel>
+    
+    <channel id="IndoOzTV.au@SD">
+        <display-name>Indo Oz TV</display-name>
+        <icon src="https://example.com/logos/indooz.png"/>
+    </channel>
+
+    <!-- Racing Channels -->
+    <channel id="RaceCentralTV.au@SD">
+        <display-name>Race Central TV</display-name>
+        <icon src="https://example.com/logos/racecentral.png"/>
+    </channel>
+    
+    <channel id="Racingcom.au@SD">
+        <display-name>Racing.com</display-name>
+        <icon src="https://example.com/logos/racingcom.png"/>
+    </channel>
+    
+    <channel id="SkyRacing1.au@SD">
+        <display-name>Sky Racing 1</display-name>
+        <icon src="https://example.com/logos/skyracing1.png"/>
+    </channel>
+    
+    <channel id="SkyRacing2.au@SD">
+        <display-name>Sky Racing 2</display-name>
+        <icon src="https://example.com/logos/skyracing2.png"/>
+    </channel>
+    
+    <channel id="SkyThoroughbredCentral.au@SD">
+        <display-name>Sky Thoroughbred Central</display-name>
+        <icon src="https://example.com/logos/skytc.png"/>
+    </channel>
+
+    <!-- Sky News Channels -->
+    <channel id="SkyNewsExtra1.au@SD">
+        <display-name>Sky News Extra 1</display-name>
+        <icon src="https://example.com/logos/skynewsextra1.png"/>
+    </channel>
+    
+    <channel id="SkyNewsExtra2.au@SD">
+        <display-name>Sky News Extra 2</display-name>
+        <icon src="https://example.com/logos/skynewsextra2.png"/>
+    </channel>
+    
+    <channel id="SkyNewsExtra3.au@SD">
+        <display-name>Sky News Extra 3</display-name>
+        <icon src="https://example.com/logos/skynewsextra3.png"/>
+    </channel>
+
+    <!-- Travel & Lifestyle -->
+    <channel id="TravelFoodTV.au@SD">
+        <display-name>Travel & Food TV</display-name>
+        <icon src="https://example.com/logos/travelfood.png"/>
+    </channel>
+
+    <!-- TVSN Channels -->
+    <channel id="TVSN.au@SD">
+        <display-name>TVSN</display-name>
+        <icon src="https://example.com/logos/tvsn.png"/>
+    </channel>
+    
+    <channel id="TVSNBeauty.au@SD">
+        <display-name>TVSN Beauty</display-name>
+        <icon src="https://example.com/logos/tvsnbeauty.png"/>
+    </channel>
+    
+    <channel id="TVSNJewellery.au@SD">
+        <display-name>TVSN Jewellery</display-name>
+        <icon src="https://example.com/logos/tvsnjewellery.png"/>
+    </channel>
+
+</tv>
