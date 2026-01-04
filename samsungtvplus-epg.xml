@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="Jellyfin" generator-info-url="http://jellyfin.org/" source-info-name="Samsung TV Plus Australia - International Channels">
+
+    <!-- IMPORTANT: The stream URLs for channels marked with "[Geo-blocked]" and many others in this list -->
+    <!-- returned HTTP 403 (Forbidden) or similar errors when checked. This suggests they are restricted. -->
+    <!-- You may need a VPN with an Australian IP address to access these channels successfully. -->
+
+    <!-- UK Comedy & Panel Shows -->
+    <channel id="8OutOf10Cats.au@Samsung">
+        <display-name>8 Out of 10 Cats</display-name>
+        <icon src="https://example.com/logos/8outof10cats.png"/>
+    </channel>
+    
+    <channel id="ComeDineWithMe.au@Samsung">
+        <display-name>Come Dine With Me</display-name>
+        <icon src="https://example.com/logos/cdwm.png"/>
+    </channel>
+    
+    <channel id="Pointless.au@Samsung">
+        <display-name>Pointless</display-name>
+        <icon src="https://example.com/logos/pointless.png"/>
+    </channel>
+
+    <!-- Movies & Entertainment -->
+    <channel id="ActionHollywoodMovies.au@Samsung">
+        <display-name>Action Hollywood Movies</display-name>
+        <icon src="https://example.com/logos/actionhollywood.png"/>
+    </channel>
+    
+    <channel id="AngerManagementChannel.au@Samsung">
+        <display-name>Anger Management Channel</display-name>
+        <icon src="https://example.com/logos/angermanagement.png"/>
+    </channel>
+    
+    <channel id="Baywatch.au@Samsung">
+        <display-name>Baywatch</display-name>
+        <icon src="https://example.com/logos/baywatch.png"/>
+    </channel>
+    
+    <channel id="MovieSphere.au@Samsung">
+        <display-name>MovieSphere</display-name>
+        <icon src="https://example.com/logos/moviesphere.png"/>
+    </channel>
+    
+    <channel id="MyTimeMovieNetwork.au@Samsung">
+        <display-name>MyTime Movie Network</display-name>
+        <icon src="https://example.com/logos/mytime.png"/>
+    </channel>
+    
+    <channel id="RCM.au@Samsung">
+        <display-name>RCM</display-name>
+        <icon src="https://example.com/logos/rcm.png"/>
+    </channel>
+    
+    <channel id="SurfCinema.au@Samsung">
+        <display-name>Surf Cinema</display-name>
+        <icon src="https://example.com/logos/surfcinema.png"/>
+    </channel>
+
+    <!-- Sports -->
+    <channel id="beINSPORTSXTRA.au@Samsung">
+        <display-name>BeIN SPORTS XTRA</display-name>
+        <icon src="https://example.com/logos/beinextra.png"/>
+    </channel>
+    
+    <channel id="FUELTV.au@Samsung">
+        <display-name>Fuel TV</display-name>
+        <icon src="https://example.com/logos/fueltv.png"/>
+    </channel>
+    
+    <channel id="MTRSPT1.au@Samsung">
+        <display-name>MTRSPT 1</display-name>
+        <icon src="https://example.com/logos/mtrspt.png"/>
+    </channel>
+    
+    <channel id="RacerNetwork.au@Samsung">
+        <display-name>Racer Network</display-name>
+        <icon src="https://example.com/logos/racernetwork.png"/>
+    </channel>
+    
+    <channel id="TraceSportStars.au@Samsung">
+        <display-name>Trace Sport Stars</display-name>
+        <icon src="https://example.com/logos/tracesport.png"/>
+    </channel>
+    
+    <channel id="LeaderboardSportsNews.au@Samsung">
+        <display-name>Leaderboard Sports News</display-name>
+        <icon src="https://example.com/logos/leaderboard.png"/>
+    </channel>
+
+    <!-- News & Current Affairs -->
+    <channel id="BreakingNews.au@Samsung">
+        <display-name>Breaking News by LeadStory</display-name>
+        <icon src="https://example.com/logos/breakingnews.png"/>
+    </channel>
+    
+    <channel id="GBNews.au@Samsung">
+        <display-name>GB News</display-name>
+        <icon src="https://example.com/logos/gbnews.png"/>
+    </channel>
+    
+    <channel id="Pulse.au@Samsung">
+        <display-name>Pulse</display-name>
+        <icon src="https://example.com/logos/pulse.png"/>
+    </channel>
+
+    <!-- Reality TV & Game Shows -->
+    <channel id="BondiVet.au@Samsung">
+        <display-name>Bondi Vet</display-name>
+        <icon src="https://example.com/logos/bondivet.png"/>
+    </channel>
+    
+    <channel id="DealorNoDeal.au@Samsung">
+        <display-name>Deal or No Deal</display-name>
+        <icon src="https://example.com/logos/dealornodeal.png"/>
+    </channel>
+    
+    <channel id="DontTellTheBride.au@Samsung">
+        <display-name>Don't Tell The Bride</display-name>
+        <icon src="https://example.com/logos/dttb.png"/>
+    </channel>
+    
+    <channel id="FearFactor.au@Samsung">
+        <display-name>Fear Factor</display-name>
+        <icon src="https://example.com/logos/fearfactor.png"/>
+    </channel>
+    
+    <channel id="FourInABed.au@Samsung">
+        <display-name>Four in a Bed</display-name>
+        <icon src="https://example.com/logos/fourinabed.png"/>
+    </channel>
+    
+    <channel id="GhostHunters.au@Samsung">
+        <display-name>Ghost Hunters</display-name>
+        <icon src="https://example.com/logos/ghosthunters.png"/>
+    </channel>
+    
+    <channel id="HardcorePawn.au@Samsung">
+        <display-name>Hardcore Pawn</display-name>
+        <icon src="https://example.com/logos/hardcorepawn.png"/>
+    </channel>
+    
+    <channel id="HellsKitchen.au@Samsung">
+        <display-name>Hell's Kitchen</display-name>
+        <icon src="https://example.com/logos/hellskitchen.png"/>
+    </channel>
+    
+    <channel id="HighwayThruHell.au@Samsung">
+        <display-name>Highway Thru Hell</display-name>
+        <icon src="https://example.com/logos/highwaythruhell.png"/>
+    </channel>
+    
+    <channel id="Mythbusters.au@Samsung">
+        <display-name>Mythbusters</display-name>
+        <icon src="https://example.com/logos/mythbusters.png"/>
+    </channel>
+    
+    <channel id="ProjectRunway.au@Samsung">
+        <display-name>Project Runway</display-name>
+        <icon src="https://example.com/logos/projectrunway.png"/>
+    </channel>
+    
+    <channel id="UndercoverBoss.au@Samsung">
+        <display-name>Undercover Boss</display-name>
+        <icon src="https://example.com/logos/undercoverboss.png"/>
+    </channel>
+    
+    <channel id="WipeoutXtra.au@Samsung">
+        <display-name>Wipeout Xtra</display-name>
+        <icon src="https://example.com/logos/wipeoutxtra.png"/>
+    </channel>
+
+    <!-- Comedy & Fun -->
+    <channel id="DryBarComedy.au@Samsung">
+        <display-name>Dry Bar Comedy</display-name>
+        <icon src="https://example.com/logos/drybar.png"/>
+    </channel>
+    
+    <channel id="FailArmy.au@Samsung">
+        <display-name>Failarmy International</display-name>
+        <icon src="https://example.com/logos/failarmy.png"/>
+    </channel>
+    
+    <channel id="Nosey.au@Samsung">
+        <display-name>Nosey</display-name>
+        <icon src="https://example.com/logos/nosey.png"/>
+    </channel>
+    
+    <channel id="PeopleAreAwesome.au@Samsung">
+        <display-name>People Are Awesome</display-name>
+        <icon src="https://example.com/logos/peopleareawesome.png"/>
+    </channel>
+
+    <!-- Home, Lifestyle & Travel -->
+    <channel id="EscapeCountry.au@Samsung">
+        <display-name>Escape to the Country</display-name>
+        <icon src="https://example.com/logos/escapetothecountry.png"/>
+    </channel>
+    
+    <channel id="HomesUnderHammer.au@Samsung">
+        <display-name>Homes Under The Hammer</display-name>
+        <icon src="https://example.com/logos/homesunderthehammer.png"/>
+    </channel>
+    
+    <channel id="Homeful.au@Samsung">
+        <display-name>Homeful</display-name>
+        <icon src="https://example.com/logos/homeful.png"/>
+    </channel>
+    
+    <channel id="InsideOutside.au@Samsung">
+        <display-name>Inside Outside</display-name>
+        <icon src="https://example.com/logos/insideoutside.png"/>
+    </channel>
+    
+    <channel id="INFAST.au@Samsung">
+        <display-name>INFAST</display-name>
+        <icon src="https://example.com/logos/infast.png"/>
+    </channel>
+    
+    <channel id="TheDesignNetwork.au@Samsung">
+        <display-name>The Design Network</display-name>
+        <icon src="https://example.com/logos/thedesignnetwork.png"/>
+    </channel>
+    
+    <channel id="TheHotelInspector.au@Samsung">
+        <display-name>The Hotel Inspector</display-name>
+        <icon src="https://example.com/logos/hotelinspector.png"/>
+    </channel>
+    
+    <channel id="Travelxp.au@Samsung">
+        <display-name>Travelxp</display-name>
+        <icon src="https://example.com/logos/travelxp.png"/>
+    </channel>
+
+    <!-- Nature, Science & Documentary -->
+    <channel id="HistoryWarfareNow.au@Samsung">
+        <display-name>History and Warfare Now</display-name>
+        <icon src="https://example.com/logos/historywarfare.png"/>
+    </channel>
+    
+    <channel id="InWild.au@Samsung">
+        <display-name>InWild</display-name>
+        <icon src="https://example.com/logos/inwild.png"/>
+    </channel>
+    
+    <channel id="InWonder.au@Samsung">
+        <display-name>InWonder</display-name>
+        <icon src="https://example.com/logos/inwonder.png"/>
+    </channel>
+    
+    <channel id="LifeDownunder.au@Samsung">
+        <display-name>Life Downunder</display-name>
+        <icon src="https://example.com/logos/lifedownunder.png"/>
+    </channel>
+    
+    <channel id="MagellanTVNow.au@Samsung">
+        <display-name>MagellanTV Now</display-name>
+        <icon src="https://example.com/logos/magellantv.png"/>
+    </channel>
+    
+    <channel id="NatureTime.au@Samsung">
+        <display-name>NatureTime</display-name>
+        <icon src="https://example.com/logos/naturetime.png"/>
+    </channel>
+    
+    <channel id="PBSAntiquesRoadTrip.au@Samsung">
+        <display-name>PBS Antiques Road Trip</display-name>
+        <icon src="https://example.com/logos/pbsantiques.png"/>
+    </channel>
+    
+    <channel id="PBSHistory.au@Samsung">
+        <display-name>PBS History</display-name>
+        <icon src="https://example.com/logos/pbshistory.png"/>
+    </channel>
+    
+    <channel id="PBSScience.au@Samsung">
+        <display-name>PBS Science</display-name>
+        <icon src="https://example.com/logos/pbsscience.png"/>
+    </channel>
+    
+    <channel id="RealWild.au@Samsung">
+        <display-name>Real Wild</display-name>
+        <icon src="https://example.com/logos/realwild.png"/>
+    </channel>
+    
+    <channel id="Timeline.au@Samsung">
+        <display-name>Timeline</display-name>
+        <icon src="https://example.com/logos/timeline.png"/>
+    </channel>
+    
+    <channel id="TrueCrimeNow.au@Samsung">
+        <display-name>True Crime Now</display-name>
+        <icon src="https://example.com/logos/truecrimenow.png"/>
+    </channel>
+    
+    <channel id="WaterBear.au@Samsung">
+        <display-name>WaterBear</display-name>
+        <icon src="https://example.com/logos/waterbear.png"/>
+    </channel>
+    
+    <channel id="WickedTuna.au@Samsung">
+        <display-name>The Wicked Tuna Channel</display-name>
+        <icon src="https://example.com/logos/wickedtuna.png"/>
+    </channel>
+
+    <!-- Music Channels -->
+    <channel id="Now70s.au@Samsung">
+        <display-name>Now 70s</display-name>
+        <icon src="https://example.com/logos/now70s.png"/>
+    </channel>
+    
+    <channel id="Now80s.au@Samsung">
+        <display-name>Now 80s</display-name>
+        <icon src="https://example.com/logos/now80s.png"/>
+    </channel>
+    
+    <channel id="NOWRock.au@Samsung">
+        <display-name>Now Rock</display-name>
+        <icon src="https://example.com/logos/nowrock.png"/>
+    </channel>
+    
+    <channel id="QwestTVJazz.au@Samsung">
+        <display-name>Qwest TV Jazz & Beyond</display-name>
+        <icon src="https://example.com/logos/qwestjazz.png"/>
+    </channel>
+    
+    <channel id="TraceUrban.au@Samsung">
+        <display-name>Trace Urban</display-name>
+        <icon src="https://example.com/logos/traceurban.png"/>
+    </channel>
+    
+    <channel id="Vevo2K.au@Samsung">
+        <display-name>Vevo 2K</display-name>
+        <icon src="https://example.com/logos/vevo2k.png"/>
+    </channel>
+    
+    <channel id="Vevo70s.au@Samsung">
+        <display-name>Vevo 70s</display-name>
+        <icon src="https://example.com/logos/vevo70s.png"/>
+    </channel>
+    
+    <channel id="Vevo80s.au@Samsung">
+        <display-name>Vevo 80s</display-name>
+        <icon src="https://example.com/logos/vevo80s.png"/>
+    </channel>
+    
+    <channel id="Vevo90s.au@Samsung">
+        <display-name>Vevo 90s</display-name>
+        <icon src="https://example.com/logos/vevo90s.png"/>
+    </channel>
+    
+    <channel id="VevoCountry.au@Samsung">
+        <display-name>Vevo Country</display-name>
+        <icon src="https://example.com/logos/vevocountry.png"/>
+    </channel>
+    
+    <channel id="VevoPop.au@Samsung">
+        <display-name>Vevo Pop</display-name>
+        <icon src="https://example.com/logos/vevopop.png"/>
+    </channel>
+    
+    <channel id="VevoRetroRock.au@Samsung">
+        <display-name>Vevo Retro Rock</display-name>
+        <icon src="https://example.com/logos/vevoretrorock.png"/>
+    </channel>
+
+    <!-- Kids & Family -->
+    <channel id="KartoonChannel.au@Samsung">
+        <display-name>Kartoon Channel</display-name>
+        <icon src="https://example.com/logos/kartoon.png"/>
+    </channel>
+    
+    <channel id="MrBeanAnimated.au@Samsung">
+        <display-name>Mr. Bean Animated</display-name>
+        <icon src="https://example.com/logos/mrbean.png"/>
+    </channel>
+    
+    <channel id="RyanandFriends.au@Samsung">
+        <display-name>Ryan and Friends</display-name>
+        <icon src="https://example.com/logos/ryanandfriends.png"/>
+    </channel>
+    
+    <channel id="ToonGoggles.au@Samsung">
+        <display-name>ToonGoggles</display-name>
+        <icon src="https://example.com/logos/toongoggles.png"/>
+    </channel>
+    
+    <channel id="ZooMoo.au@Samsung">
+        <display-name>Zoo Moo</display-name>
+        <icon src="https://example.com/logos/zoomoo.png"/>
+    </channel>
+
+    <!-- Pets & Animals -->
+    <channel id="PetClubTV.au@Samsung">
+        <display-name>Pet Club TV</display-name>
+        <icon src="https://example.com/logos/petclub.png"/>
+    </channel>
+    
+    <channel id="ThePetCollective.au@Samsung">
+        <display-name>The Pet Collective International</display-name>
+        <icon src="https://example.com/logos/petcollective.png"/>
+    </channel>
+
+    <!-- Outdoor & Automotive -->
+    <channel id="HorseCountry.au@Samsung">
+        <display-name>Horse and Country</display-name>
+        <icon src="https://example.com/logos/horsecountry.png"/>
+    </channel>
+    
+    <channel id="OutdoorChannel.au@Samsung">
+        <display-name>Outdoor Channel</display-name>
+        <icon src="https://example.com/logos/outdoorchannel.png"/>
+    </channel>
+    
+    <channel id="PowerNation.au@Samsung">
+        <display-name>PowerNation</display-name>
+        <icon src="https://example.com/logos/powernation.png"/>
+    </channel>
+
+    <!-- Crime & Paranormal -->
+    <channel id="HauntTV.au@Samsung">
+        <display-name>Haunt TV</display-name>
+        <icon src="https://example.com/logos/haunttv.png"/>
+    </channel>
+    
+    <channel id="RealCrime.au@Samsung">
+        <display-name>Real Crime</display-name>
+        <icon src="https://example.com/logos/realcrime.png"/>
+    </channel>
+
+    <!-- Food -->
+    <channel id="Tastemade.au@Samsung">
+        <display-name>Tastemade Australia</display-name>
+        <icon src="https://example.com/logos/tastemade.png"/>
+    </channel>
+
+    <!-- General Entertainment -->
+    <channel id="EntertainmentHub.au@Samsung">
+        <display-name>Entertainment Hub</display-name>
+        <icon src="https://example.com/logos/enthub.png"/>
+    </channel>
+    
+    <channel id="ITVChoice.au@Samsung">
+        <display-name>ITV Choice</display-name>
+        <icon src="https://example.com/logos/itvchoice.png"/>
+    </channel>
+    
+    <channel id="Pop.au@Samsung">
+        <display-name>Pop</display-name>
+        <icon src="https://example.com/logos/pop.png"/>
+    </channel>
+    
+    <channel id="Wonder.au@Samsung">
+        <display-name>Wonder</display-name>
+        <icon src="https://example.com/logos/wonder.png"/>
+    </channel>
+    
+    <channel id="ZeeOne.au@Samsung">
+        <display-name>Zee One</display-name>
+        <icon src="https://example.com/logos/zeeone.png"/>
+    </channel>
+
+    <!-- Weather -->
+    <channel id="WeatherSpy.au@Samsung">
+        <display-name>WeatherSpy</display-name>
+        <icon src="https://example.com/logos/weatherspy.png"/>
+    </channel>
+
+</tv>
